@@ -1,8 +1,8 @@
 # Call Center Dashboard
-![Excel dashboard Project](https://github.com/josephabodunrin/Call-Center-Dashboard/assets/74240726/a9204322-9b6a-46bd-b2b2-f6c20e854a70)
 ## Introduction
 This project involves the analysis of call center data from October 2020, containing over 30,000 rows. The aim is to create a comprehensive dashboard that provides insights into customer interactions, sentiments, and other key metrics.
 
+![Excel dashboard Project](https://github.com/josephabodunrin/Call-Center-Dashboard/assets/74240726/a9204322-9b6a-46bd-b2b2-f6c20e854a70)
 ## Dataset
 The dataset includes the following columns:
 - **id**: Unique identifier for each call.
